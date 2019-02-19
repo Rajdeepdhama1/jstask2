@@ -1,1 +1,3 @@
-# jstask2
+js task on 19 feb:
+
+first we suffled the whole array and then we apply sorting on the suffled array on basis of id.......
